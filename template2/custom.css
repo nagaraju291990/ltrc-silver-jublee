@@ -1,0 +1,20 @@
+.vl {
+  border-left: 3px solid green;
+  height: auto;
+  margin: 1%;
+}
+
+nav.navbar {
+  border: 1px solid #000;
+}
+
+.fixed-navbar {
+  padding: 0 !important;
+  position: fixed;
+  top: 0;
+  width: 100%;
+  z-index: 1030; /* Ensure it stays above other elements */
+  background-color: #fff;
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.3); /* Optional shadow for floating effect */
+  transition: background-color 0.3s, box-shadow 0.3s;
+}
