@@ -27,3 +27,8 @@ div#schedulerdiv {
 		margin-left: 10%;
 	}
 }
+
+#about {
+	font-size: 1.5rem;
+	line-height: 3rem;
+}
