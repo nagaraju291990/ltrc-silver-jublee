@@ -28,7 +28,8 @@ div#schedulerdiv {
 	}
 }
 
-/* #about {
-	font-size: 1.15rem;
-	line-height: 2rem;
-} */
+body {
+	font-family: Montserrat;
+	font-weight: 700;
+	font-size: 1.25 rem;
+}
