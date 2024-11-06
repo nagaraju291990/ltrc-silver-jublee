@@ -36,3 +36,15 @@ body {
 	font-size: 1.25 rem;
   line-height: 1.75;
 }
+
+.gradient-button {
+  background: linear-gradient(45deg, #7041b1, #637fd1, #93b3e3);
+  color: white;
+  padding: 6px 12px;
+  border: none;
+  border-radius: 8px;
+  font-size: 16px;
+  font-weight: bold;
+  cursor: pointer;
+  transition: transform 0.3s ease;
+}
